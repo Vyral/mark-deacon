@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Summer Scottsdale Home Price Update
-date: 2019-08-12 18:18:26
+date: 2019-08-12 18:18:00
 tags:
   - Market Update
 excerpt: >-
