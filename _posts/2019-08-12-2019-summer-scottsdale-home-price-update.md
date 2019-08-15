@@ -12,7 +12,7 @@ pullquote: Now is a golden moment if you’re considering selling.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/8-5---mark-deacon-youtube.jpg
+youtube_alternate_image: /uploads/8-5---mark-deacon-youtube-1.jpg
 youtube_code: j9uD0g80d2o
 ---
 
