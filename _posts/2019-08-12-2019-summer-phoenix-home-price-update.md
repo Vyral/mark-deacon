@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019 Summer Scottsdale Home Price Update
+title: 2019 Summer Phoenix Home Price Update
 date: 2019-08-12 18:18:00
 tags:
   - Market Update
