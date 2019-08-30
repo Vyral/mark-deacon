@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Pros and Cons of Selling to an iBuyer
-date: 2019-08-30 18:02:44
+date: 2019-08-30 18:02:00
 tags:
   - Home Seller Tips
 excerpt: >-
