@@ -24,9 +24,9 @@ Given the recent popularity of instant offer companies, otherwise known as “iB
 
 **Pro No. 1: You get to choose your closing date.** This can be very handy for people on a strict schedule, such as those who are relocating for a job.&nbsp;
 
-**Pro No. 2: There is no appraisal or financing contingencies.&nbsp;**
+**Pro No. 2: There are no appraisals or financing contingencies.&nbsp;**
 
-**Pro No. 3: There is no showings.** In other words, you get to sell your home as is without worrying about strangers walking through it and assessing every detail.&nbsp;
+**Pro No. 3: There are no showings.** In other words, you get to sell your home as is without worrying about strangers walking through it and assessing every detail.&nbsp;
 
 {% include pullquote.html %}
 
