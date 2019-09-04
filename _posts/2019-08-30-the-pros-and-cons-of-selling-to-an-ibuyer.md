@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’ve been considering selling to an iBuyer, consider these pros and cons
   first.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Deacon/Videos/The+Pros+and+Cons+of+Selling+to+an+iBuyer.mp4
 pullquote: >-
   The best course of action in determining whether selling an iBuyer is right
   for you is to speak with your Realtor.
