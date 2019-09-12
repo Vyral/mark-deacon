@@ -13,7 +13,7 @@ pullquote: >-
   but also to build wealth.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/9-10---mark-deacon-youtube.jpg
 youtube_code: 'https://youtu.be/ByDiBQv04zE'
 ---
