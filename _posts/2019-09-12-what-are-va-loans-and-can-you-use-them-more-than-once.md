@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are VA Loans? And Can You Use Them More Than Once?
-date: 2019-09-12 14:34:10
+date: 2019-09-12 14:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
