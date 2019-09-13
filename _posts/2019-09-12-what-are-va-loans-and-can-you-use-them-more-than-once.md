@@ -10,7 +10,7 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Deacon/Videos/What+Are+VA+Loans_+And+Can+You+Use+Them+More+Than+Once_.mp4
 pullquote: >-
-  This under-utlilzed program grants you the opportunity to not only buy a home,
+  This under-utilized program grants you the opportunity to not only buy a home,
   but also to build wealth.
 enclosure_type: video/mp4
 enclosure_time:
