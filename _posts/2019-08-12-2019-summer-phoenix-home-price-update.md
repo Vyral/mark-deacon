@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The weather isn’t the only thing heating up right now. Here’s what we’re
   seeing out in the real estate market right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Deacon/Videos/An+Update+on+Home+Prices+for+You(1).mp4
 pullquote: Now is a golden moment if you’re considering selling.
 enclosure_type: video/mp4
 enclosure_time:
