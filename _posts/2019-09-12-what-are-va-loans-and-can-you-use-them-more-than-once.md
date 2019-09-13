@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In today’s video, we’ll define VA loans and discuss how, for those who are
   eligible, they’re an unbeatable opportunity to buy a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Deacon/Videos/What+Are+VA+Loans_+And+Can+You+Use+Them+More+Than+Once_.mp4
 pullquote: >-
   This under-utlilzed program grants you the opportunity to not only buy a home,
   but also to build wealth.
