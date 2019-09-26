@@ -14,7 +14,7 @@ pullquote: >-
   for you is to speak with your Realtor.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/8-30---mark-deacon-youtube.jpg
 youtube_code: YPaEI9Imyv4
 ---
