@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prepare Your Listing for Sale
-date: 2019-09-30 16:05:21
+date: 2019-09-30 16:05:00
 tags:
   - Home Seller Tips
 excerpt: >-
