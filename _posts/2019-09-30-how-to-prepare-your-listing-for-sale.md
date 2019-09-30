@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/etE0a4g3psk'
 
 {% include youtube.html %}
 
+<center>If you’re planning to put your home on the market this fall, follow these key listing tips to boost your success.</center>
+
 When selling a home in the fall, there are a few key steps you should take.&nbsp;
 
 The first step is one that applies all year long: **Research current market trends.** This means partnering with a professional agent to determine how many competing homes are available and what homes in your neighborhood are selling for, among other things. Above all, understanding what kind of market your area is experiencing is key.&nbsp;
