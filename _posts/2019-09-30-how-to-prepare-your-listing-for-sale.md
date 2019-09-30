@@ -21,7 +21,9 @@ youtube_code: 'https://youtu.be/etE0a4g3psk'
 
 {% include youtube.html %}
 
-<center>If you’re planning to put your home on the market this fall, follow these key listing tips to boost your success.</center>
+*If you’re planning to put your home on the market this fall, follow these key listing tips to boost your success.*
+
+&nbsp;
 
 When selling a home in the fall, there are a few key steps you should take.&nbsp;
 
