@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/etE0a4g3psk'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re planning to put your home on the market this fall, follow these key listing tips to boost your success.</em></p>
+*If you’re planning to put your home on the market this fall, follow these key listing tips to boost your success.*
 
 When selling a home in the fall, there are a few key steps you should take.&nbsp;
 
@@ -31,7 +31,7 @@ Generally, markets will either be categorized as a buyer’s market, a seller’
 
 {% include pullquote.html %}
 
-Of course, this is only part of the equation. **Another way to boost your fall selling success is by embracing the spirit of the season and decorating accordingly.** Adding a few seasonal touches to your listing’s decor can make potential buyers feel much more at home. Don’t go overboard by any means, but do add festive throw pillows and other tasteful touches. Even lighting a pumpkin pie-scented candle before a showing can have a big impact.&nbsp;
+Of course, this is only part of the equation. **Another way to boost your fall selling success is by embracing the spirit of the season and decorating accordingly.** Adding a few seasonal touches to your listing’s decor can make potential buyers feel much more at home. Don’t go overboard by any means, but do add festive throw pillows and other tasteful touches.
 
 And don’t forget your home’s exterior. **Decorating the inside will only go so far if your home’s curb appeal is lacking**, so be sure to clean up your yard and front porch, as well. This means raking any fallen leaves, trimming back trees or bushes, clearing walkways, and adding fresh mulch. Putting a pot of mums out is also a nice touch.&nbsp;
 
