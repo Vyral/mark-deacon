@@ -16,12 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mark-deacon-fall-home-selling-tips-youtube.png
-youtube_code: 'https://youtu.be/etE0a4g3psk'
+youtube_code: 'https://youtu.be/obCq8x-jy_Q'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re planning to put your home on the market this fall, follow these key listing tips to boost your success.</em></p>
+*If you’re planning to put your home on the market this fall, follow these key listing tips to boost your success.*
 
 When selling a home in the fall, there are a few key steps you should take.&nbsp;
 
