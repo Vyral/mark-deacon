@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Buying in the Fall
-date: 2019-10-14 15:24:24
+date: 2019-10-14 15:24:00
 tags:
   - Home Buyer Tips
 excerpt: What’s it like to buy a home in the fall? Allow me to explain.
